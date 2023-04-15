@@ -17,9 +17,7 @@ marks given.
 Following operations are to be defined :
 
 1. Insert a student record in the student-database. After every insertion of a student-
-record, appropriate changes/insertion needs to be done in the assignment-database
-
-also.
+record, appropriate changes/insertion needs to be done in the assignment-database also.
 2. Insert assignment-record in the assignment-record-database. The insertion function
 can take a list of students and allocate the assignment to multiple student groups, thus
 resulting into insertions in student-database as well.
